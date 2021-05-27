@@ -21,7 +21,7 @@ Please see
 2. __Jin, J.__, Qi, G., Yu, Z., Chatterjee, N. (2021) Mendelian Randomization Analysis Using Multiple Biomarkers of an Underlying Common Exposure. 
 [[bioRxiv]](https://doi.org/10.1101/2021.02.05.429979) [[R Package]](https://github.com/Jin93/MRLE)
 
-3.  Rabinowitz, J.A., __Jin, J.__, Kuo, S.,  Thrul, J., Reboussin, B., Domingue, B., Ialongo, N., Maher, B.,Uhl, G. (2021) ``Genetic propensity for risky behavior and depression predicts suicide attempt among urban African American males.'' To appear in ***American Journal of Medical Genetics***.  
+3.  Rabinowitz, J.A., __Jin, J.__, Kuo, S.,  Thrul, J., Reboussin, B., Domingue, B., Ialongo, N., Maher, B.,Uhl, G. (2021) Genetic Propensity for Risky Behavior and Depression Predicts Suicide Attempt among Urban African American Males.'' To appear in ***American Journal of Medical Genetics***.  
 
 4. Ballreich, J., __Jin, J.__, Kundu, P., Chatterjee, N. (2021) Provider and Patient Characteristics of Medicare Beneficiaries Who Are High-Risk for COVID-19 Mortality. Journal of General Internal Medicine}. DOI: 10.1007/s11606-021-06857-8. 
 [[PDF]](https://link.springer.com/content/pdf/10.1007/s11606-021-06857-8.pdf)
