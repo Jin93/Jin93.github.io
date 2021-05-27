@@ -38,12 +38,36 @@ Please see
 6. __Jin, J.$$^*$$__, Agarwala, N.$$^*$$, Kundu, P.$$^*$$, Chatterjee, N. (2020) Individual and community-level risk for COVID-19 mortality in the United States. ***Nature Medicine***, 27(2), 264-269.
 [[PDF]](https://www.nature.com/articles/s41591-020-01191-8.pdf) [[Code]](https://github.com/Jin93/COVID19Risk) 
 
+7. __Jin, J.__, Zhang, L., Leng, E., Metzger, G.J., Koopmeiners, J.S. (2020) A Multi-resolution Super Learner Algorithm for Voxel-wise Classification of Prostate Cancer Using Multi-parametric MRI. To appear in ***J Appl Stat***.
+[[PDF]](https://arxiv.org/abs/2007.00816)
+
+8. __Jin, J.__, Zhang, L., Leng, E., Metzger, G.J., Koopmeiners, J.S. (2020) Bayesian Spatial Models for Voxel-wise Prostate Cancer Classification Using Multi-parametric MRI Data. Under review at ***Statistics in Medicine***.
+[[PDF]](https://arxiv.org/abs/2001.07316)
+
+9. __Jin, J.__, Riviere, M, Luo, X., Dong, Y. (2020) Bayesian Methods for the Analysis of Early-phase Oncology Basket Trials with Information Borrowing across Cancer Types. ***Statistics in Medicine***, 39(25), 3459-3475.
+[[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.8675)
+
+10. __Jin, J.__, Liu, Q., Zheng, W., Lei, Gao., Shun, Z., Lin, T.T., Dong, Y. (2020) A Bayesian Method for Preliminary Proof of Concept in Early Phase Oncology Studies with a Basket Design. ***Statistics in Biosciences***, 12(2), 167-179.
+[[PDF]](https://link.springer.com/content/pdf/10.1007/s12561-020-09267-2.pdf)
 
 
 <!---
 -->
 **<center>2019</center>**
 
+11. Leng, E., Henriksen, J.C., Rizzardi, A.E., __Jin, J.__, Nam, J.W., Brassuer, B.M., Johnson, A.D., Reder, N.P., Koopmeiners, J.S., Schmechel, S.C., Metzger, G.J. (2019) Signature Maps for Automatic Identification of Prostate Cancer from Colorimetric Analysis of H&E-and IHC-stained Histopathological Specimens. ***Scientific Reports***, 9(1), 1-12.
+[[PDF]](https://www.nature.com/articles/s41598-019-43486-y.pdf)
+
+12. __Jin, J.__, Zhang, L., Leng, E., Metzger, G.J., Koopmeiners, J.S. (2019) Detection of Prostate Cancer with Multiparametric MRI Utilizing the Anatomic Structure of the Prostate. ***Statistics in Medicine***, 37, 3214 - 3229.
+[[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.7810)
+
+
+<!---
+-->
+**<center>2018</center>**
+
+13. Leng, E., Spilseth, B., __Jin, J.__, Zhang, L., Leng, E., Koopmeiners, J.S., Metzger, G.J. (2018) Development of a Measure for Evaluating Lesion‐wise Performance of CAD Algorithms in the Context of MpMRI Detection of Prostate Cancer. ***Medical Physics***, 45, 2076 - 2088.
+[[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.12861)
 
 
 
