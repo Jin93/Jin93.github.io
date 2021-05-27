@@ -32,11 +32,11 @@ Please see
 -->
 **<center>2020</center>**
 
-5. Yu, Z., __Jin, J.__, Tin, A., Kottgen, A., Yu B., Chen J., Ballantyne, C.M., Hoogeveen, R.C., Arking, D.E., Chatterjee, N., Coresh, J., Grams, M.E., Coresh J. (2020) Polygenic Risk Scores for Kidney Function to the Circulating Proteome, and Incident Kidney Diseases: the Atherosclerosis Risk in Community Study. Under revision at ***Journal of the American Society of Nephrology***.
-[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.09.05.284265v1.article-metrics)
-
-6. __Jin, J.$$^*$$__, Agarwala, N.$$^*$$, Kundu, P.$$^*$$, Chatterjee, N. (2020) Individual and community-level risk for COVID-19 mortality in the United States. ***Nature Medicine***, 27(2), 264-269.
+5. __Jin, J.$$^*$$__, Agarwala, N.$$^*$$, Kundu, P.$$^*$$, Chatterjee, N. (2020) Individual and community-level risk for COVID-19 mortality in the United States. ***Nature Medicine***, 27(2), 264-269.
 [[PDF]](https://www.nature.com/articles/s41591-020-01191-8.pdf) [[Code]](https://github.com/Jin93/COVID19Risk) 
+
+6. Yu, Z., __Jin, J.__, Tin, A., Kottgen, A., Yu B., Chen J., Ballantyne, C.M., Hoogeveen, R.C., Arking, D.E., Chatterjee, N., Coresh, J., Grams, M.E., Coresh J. (2020) Polygenic Risk Scores for Kidney Function to the Circulating Proteome, and Incident Kidney Diseases: the Atherosclerosis Risk in Community Study. Under revision at ***Journal of the American Society of Nephrology***.
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.09.05.284265v1.article-metrics)
 
 7. __Jin, J.__, Zhang, L., Leng, E., Metzger, G.J., Koopmeiners, J.S. (2020) A Multi-resolution Super Learner Algorithm for Voxel-wise Classification of Prostate Cancer Using Multi-parametric MRI. To appear in ***J Appl Stat***.
 [[PDF]](https://arxiv.org/abs/2007.00816)
