@@ -7,10 +7,9 @@ author_profile: true
 
 
 Please see 
-[**Google Scholar**](https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en).
-for a full list of publications.
+[**Google Scholar**](https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en) for a full list of publications.
 
-($$^*$$First authors with equal contribution.) #;     $$^\dagger$$senior authors with equal contribution.)
+($$^*$$First authors with equal contribution.)
 
 
 <!---
