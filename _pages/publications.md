@@ -9,7 +9,7 @@ author_profile: true
 Please see 
 [**Google Scholar**](https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en) for a full list of publications.
 
-($$^*$$First authors with equal contribution.)
+($$^*$$First authors with equal contribution)
 
 
 <!---
@@ -72,7 +72,16 @@ Please see
 
 
 
+<!---
+-->
+*Other Publications/Articles*
 
+1. Aleszu Bajak. (2021) Medical Records Could Decide Your Place in Line. ***USA TODAY***. 
+[[Link]](https://www.usatoday.com/in-depth/news/2021/04/14/vaccines-medical-records-could-decide-your-place-line/7115621002/)
+
+
+2. __Jin, J.$$^*$$__, Agarwala, N.$$^*$$, Kundu, P.$$^*$$, Wang Y.$$^*$$, Zhao R.$$^*$$, Chatterjee, N. (2020) Transparency, Reproducibility, and Validity of COVID-19 Projection Models. ***Medium - Towards Data Science***.
+[[Link]](https://towardsdatascience.com/transparency-reproducibility-and-validity-of-covid-19-projection-models-78592e029f28)
 
 
 
