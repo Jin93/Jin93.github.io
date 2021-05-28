@@ -72,9 +72,8 @@ Please see
 
 
 
-<!---
--->
-*Other Publications/Articles*
+Other Publications/Articles
+======
 
 1. Aleszu Bajak. (2021) Medical Records Could Decide Your Place in Line. ***USA TODAY***. 
 [[Link]](https://www.usatoday.com/in-depth/news/2021/04/14/vaccines-medical-records-could-decide-your-place-line/7115621002/)
