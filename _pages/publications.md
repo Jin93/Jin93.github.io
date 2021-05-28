@@ -24,7 +24,6 @@ Please see
 3.  Rabinowitz, J.A., __Jin, J.__, Kuo, S.,  Thrul, J., Reboussin, B., Domingue, B., Ialongo, N., Maher, B.,Uhl, G. (2021) Genetic Propensity for Risky Behavior and Depression Predicts Suicide Attempt among Urban African American Males.'' To appear in ***American Journal of Medical Genetics***.  
 
 4. Ballreich, J., __Jin, J.__, Kundu, P., Chatterjee, N. (2021) Provider and Patient Characteristics of Medicare Beneficiaries Who Are High-Risk for COVID-19 Mortality. ***Journal of General Internal Medicine***. DOI: 10.1007/s11606-021-06857-8. 
-[[PDF]](https://link.springer.com/content/pdf/10.1007/s11606-021-06857-8.pdf)
 
 
 
