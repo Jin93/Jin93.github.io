@@ -1,11 +1,9 @@
 ---
 layout: archive
+title: "Education"
 permalink: /bio/
 author_profile: true
 ---
-
-Education
-======
 
 _Ph.D. in Biostatistics, 2019, University of Minnesota Twin Cities_  
 
