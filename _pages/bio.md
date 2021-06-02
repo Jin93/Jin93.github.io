@@ -23,12 +23,10 @@ author_profile: true
 Professional Experience
 ======
 ---
-- Postdoctoral Fellow, 2019-Present, Department of Biostatistics, Johns Hopkins University
- 
+- Postdoctoral Fellow, 2019-Present, Department of Biostatistics, Johns Hopkins University<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 
-- Research Scientist Intern, summer 2018
-    
+- Research Scientist Intern, summer 2018<br />
     Department of Biostatistics and Programming, Sanofi S.A., Cambridge, MA
 
 - Data Science Intern, summer 2017
