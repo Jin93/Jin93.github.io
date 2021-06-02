@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 > **Ph.D. in Biostatistics**, 2019, University of Minnesota Twin Cities
-- Advisors: Drs. [Joeseph Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)   
-- Dissertation: Statistical Methods for Improved Voxel-wise Classification of Prostate Cancer Using Multi-parametric MRI Data.
+> - Advisors: Drs. [Joeseph Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)   
+> - Dissertation: Statistical Methods for Improved Voxel-wise Classification of Prostate Cancer Using Multi-parametric MRI Data.
 
 **M.S. in Biostatistics**, 2016, University of Minnesota Twin Cities
 
@@ -17,10 +17,10 @@ author_profile: true
 
 
 
-======
+
 Professional Experience
 ======
-
+---
 Postdoctoral Fellow, 2019-Present, Department of Biostatistics, Johns Hopkins University
 - Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 
