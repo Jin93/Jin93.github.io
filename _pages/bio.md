@@ -37,7 +37,6 @@ Honors & Awards
 - James R. Boen Student Achievement Award, University of Minnesota, 2019
 - Student Paper Award, Medical Device and Diagnostic Section, AMA Joint Statistical Meetings, 2017 & 2019.
 - Doctoral Dissertation Fellowship, University of Minnesota, 2018.
-- Ph.D. Student Award, School of Public Health Research Day, University of Minnesota, 2017.
 - COGS Grant Award, University of Minnesota, 2017.
 - Dean's PhD Scholar's Award, University of Minnesota, 2016.
 - John E. Connett First Year Award, University of Minnesota, 2015.
