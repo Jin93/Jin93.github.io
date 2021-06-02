@@ -1,8 +1,8 @@
 ---
-  layout: archive
+layout: archive
 title: "Teaching Assistant"
 permalink: /teaching/
-  author_profile: true
+author_profile: true
 ---
   University of Minnesota Twin Cities<br />
 ---
@@ -13,11 +13,6 @@ permalink: /teaching/
   - Fundamentals of Biostatistical Inference, Fall 2015<br />
   - Biostatistical Methods II, Spring 2015<br />
   - Biostatistical Methods I, Fall 2014 & Spring 2015<br />
-  
-
-
-
-
 
 
 Student Advising
