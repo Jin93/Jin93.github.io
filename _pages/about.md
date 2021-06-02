@@ -16,8 +16,8 @@ I am a postdoctoral fellow in Dr. [Nilanjan Chatterjee](https://nilanjanchatterj
 
 
 
-### Contact
-======
+## Contact
+
 
 Department of Biostatistics  
 Johns Hopkins Bloomberg School of Public Health  
