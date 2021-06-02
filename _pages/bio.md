@@ -17,17 +17,6 @@ author_profile: true
     Dissertation: The analysis of sub-health status among college students in China.
 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-
 
 Professional Experience
 ======
