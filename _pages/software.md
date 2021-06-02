@@ -11,7 +11,7 @@ author_profile: true
 
 
 - [T2DAG](https://github.com/Jin93/T2DAG)<br />
-  R package for T2-DAG, a DAG-informed two-sample test for mean difference in the vector of gene expression levels of a pathway. In addition to gene expression data, the method efficiently leverages axiliary pathway information on gene interactions through a linear structural equation model.<br />
+  R package for T2-DAG, a DAG-informed two-sample test for mean difference in the vector of gene expression levels of a pathway leveraging axiliary pathway information on gene interactions through a linear structural equation model.<br />
      - Jin, J. and Wang, Y., 2021. A powerful test for differentially expressed gene pathways via graph-informed structural equation modeling. [arXiv](https://arxiv.org/abs/2105.07570)
 
 
@@ -23,6 +23,6 @@ Online Tools
 - [COVID-19 Mortality Risk Calculator](https://covid19risktools.com:8443/riskcalculator)<br />
   The tool provides an assessment of individualized risks for mortality from COVID-19 using the best publicly available information on risks associated with various predisposing factors.<br />
 - [COVID-19 Risk Interactive Maps](https://jhucovid19.policymap.com/newmaps#/)<br />
-  The COVID-19 Risk Map was developed through a collaborative effort with PolicyMap and is an interactive map showing size of various high risk populations in US, nationwide and by cities, countries, and states.<br />
+  Developed through a collaborative effort with PolicyMap, the interactive maps show sizes of various high risk populations in US, nationwide and by cities, countries, and states.<br />
      - Jin, J., Agarwala, N., Kundu, P., Chatterjee, N., 2020. Individual and community-level risk for COVID-19 mortality in the United States. Nature Medicine, 27(2), 264-269.
 
