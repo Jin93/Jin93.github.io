@@ -31,7 +31,7 @@ Professional Experience
 - **Data Science Intern**, summer 2017<br />
     Global Specialty Analytics, Liberty Mutual Insurance, Boston, MA
 
-- **Research & Teaching Assistant**, 2014 - 2019<br />
+- **Research & Teaching Assistant**, 2014 - 2018<br />
     Division of Biostatistics, University of Minnesota Twin Cities
 
 
