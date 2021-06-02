@@ -4,7 +4,7 @@ title: "Education"
 permalink: /bio/
 author_profile: true
 ---
----
+
 - **Ph.D. in Biostatistics**, 2019<br />
     University of Minnesota Twin Cities<br />
     Advisors: Drs. [Joeseph Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)   
@@ -16,11 +16,11 @@ author_profile: true
     Advisor: Dr. [Laisheng Wei](https://bs.ustc.edu.cn/english/profile-202.html)     
     Dissertation: The analysis of sub-health status among college students in China.
 
-
+---
 
 Professional Experience
 ======
----
+
 - **Postdoctoral Fellow**, 2019-Present<br />
     Department of Biostatistics, Johns Hopkins University<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
