@@ -21,7 +21,7 @@ author_profile: true
 Professional Experience
 ======
 
-- ***Postdoctoral Fellow***, 2019-Present<br />
+- *Postdoctoral Fellow*, 2019-Present<br />
     Department of Biostatistics, Johns Hopkins University<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 
