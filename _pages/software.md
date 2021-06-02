@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-  [MRLE](https://github.com/Jin93/MRLE)<br />
+### **[MRLE]**(https://github.com/Jin93/MRLE)<br />
   R package for Mendelian Randomization analysis for latent exposures.<br />
   Jin, J., Qi, G., Yu, Z. and Chatterjee, N., 2021. Mendelian Randomization Analysis Using Multiple Biomarkers of an Underlying Common Exposure. [bioRxiv](https://doi.org/10.1101/2021.02.05.429979)
 
