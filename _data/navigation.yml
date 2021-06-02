@@ -4,9 +4,6 @@ main:
   - title: "Bio"
     url: /bio/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Publications"
     url: /publications/
 
@@ -16,6 +13,4 @@ main:
   - title: "Software"
     url: /software/    
         
-  - title: "Activities"
-    url: /activities/
     
