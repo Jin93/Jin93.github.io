@@ -17,8 +17,6 @@ My research interests focus on statistical methods for integrating multi-source 
 ---
 
 ## Contact
-
-
 Department of Biostatistics  
 Johns Hopkins Bloomberg School of Public Health  
 615 N. Wolfe Street  
