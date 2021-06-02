@@ -21,11 +21,11 @@ author_profile: true
 Professional Experience
 ======
 
-- Postdoctoral Fellow, Johns Hopkins University, 2019-Present<br />
+- Postdoctoral Fellow, Johns Hopkins University, Baltimore, MD, 2019-Present<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 - Research Scientist Intern, Sanofi S.A., Cambridge, MA, summer 2018<br />
 - Data Science Intern, Liberty Mutual Insurance, Boston, MA, summer 2017<br />
-- Research & Teaching Assistant, University of Minnesota Twin Cities, 2014 - 2018<br />
+- Research & Teaching Assistant, University of Minnesota Twin Cities, Minneapolis, MN, 2014 - 2018<br />
 
 
 
