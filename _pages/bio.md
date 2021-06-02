@@ -21,18 +21,14 @@ author_profile: true
 Professional Experience
 ======
 
-- *Postdoctoral Fellow*, 2019-Present<br />
-    Department of Biostatistics, Johns Hopkins University<br />
+- *Postdoctoral Fellow*, Johns Hopkins University, 2019-Present<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 
-- *Research Scientist Intern*, summer 2018<br />
-    Department of Biostatistics and Programming, Sanofi S.A., Cambridge, MA
+- *Research Scientist Intern*, Sanofi S.A., Cambridge, MA, summer 2018<br />
 
-- *Data Science Intern*, summer 2017<br />
-    Global Specialty Analytics, Liberty Mutual Insurance, Boston, MA
+- *Data Science Intern*, Liberty Mutual Insurance, Boston, MA, summer 2017<br />
 
-- *Research & Teaching Assistant*, 2014 - 2018<br />
-    Division of Biostatistics, University of Minnesota Twin Cities
+- *Research & Teaching Assistant*, University of Minnesota Twin Cities, 2014 - 2018<br />
 
 
 
