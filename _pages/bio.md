@@ -8,7 +8,7 @@ author_profile: true
 - **Ph.D. in Biostatistics**, 2019<br />
     University of Minnesota Twin Cities<br />
     Advisors: Drs. [Joeseph Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)   
-    Thesis: Statistical Methods for Voxel-wise Classification of Prostate Cancer Using Multi-parametric MRI Data.
+    Thesis: Statistical methods for voxel-wise classification of prostate cancer using multi-parametric MRI data.
 
 - **B.S. in Statistics**, 2014<br />
     School of the Gifted Young,<br />
