@@ -14,7 +14,7 @@ I am a postdoctoral fellow in Dr. [Nilanjan Chatterjee](https://nilanjanchatterj
 
 My research interests focus on statistical methods for integrating multi-source data to address cutting-edge public health issues, specifically, Bayesian hierarchical models for high-dimensional, complex-structured data, mendelian randomization, disease risk prediction, and genetic epidemiology.
 
----
+
 
 ## Contact
 Department of Biostatistics  
