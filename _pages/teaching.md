@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching Assistant"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -18,9 +18,7 @@ author_profile: true
 
 Student Advising
 ======
-**Intern Advising** at Johns Hopkins University
+  - **Intern Advising** at Johns Hopkins University<br />
        - Yuqi Zhang, B.S.<br />
        Department of Biomedical Engineering, Johns Hopkins University, June 2020 - Present<br />
        Co-Mentored with Dr. Nilanjan Chatterjee.
-
-
