@@ -25,13 +25,13 @@ Professional Experience
     Department of Biostatistics, Johns Hopkins University<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 
-- ***Research Scientist Intern***, summer 2018<br />
+- *Research Scientist Intern*, summer 2018<br />
     Department of Biostatistics and Programming, Sanofi S.A., Cambridge, MA
 
-- ***Data Science Intern***, summer 2017<br />
+- *Data Science Intern*, summer 2017<br />
     Global Specialty Analytics, Liberty Mutual Insurance, Boston, MA
 
-- ***Research & Teaching Assistant***, 2014 - 2018<br />
+- *Research & Teaching Assistant*, 2014 - 2018<br />
     Division of Biostatistics, University of Minnesota Twin Cities
 
 
