@@ -1,49 +1,29 @@
 ---
   layout: archive
-title: "Teaching"
+title: "Teaching Assistant"
 permalink: /teaching/
   author_profile: true
 ---
-  ---
-  - **Ph.D. in Biostatistics**, 2019<br />
   University of Minnesota Twin Cities<br />
-  Advisors: Drs. [Joeseph Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)   
-Dissertation: Statistical Methods for Improved Voxel-wise Classification of Prostate Cancer Using Multi-parametric MRI Data.
-
-- **B.S. in Statistics**, 2014<br />
-  School of the Gifted Young,<br />
-  University of Science and Technology of China<br />
-  Advisor: Dr. [Laisheng Wei](https://bs.ustc.edu.cn/english/profile-202.html)     
-Dissertation: The analysis of sub-health status among college students in China.
-
-
-* Summer 2015: Research Assistant
-* Github University
-* Duties included: Tagging issues
-* Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-* Github University
-* Duties included: Merging pull requests
-* Supervisor: Professor Hub
+---
+  - Bayesian Decision Theory and Data Analysis, Spring 2018<br />
+  - Advanced Statistical Inference, Spring 2017<br />
+  - Survival Analysis, Fall 2016 & Fall 2017<br />
+  - Biostatistics Modeling and Methods, Spring 2016<br />
+  - Fundamentals of Biostatistical Inference, Fall 2015<br />
+  - Biostatistical Methods II, Spring 2015<br />
+  - Biostatistical Methods I, Fall 2014 & Spring 2015<br />
+  
 
 
 
-Professional Experience
+
+
+
+Student Advising
 ======
   ---
-  - **Postdoctoral Fellow**, 2019-Present<br />
-  Department of Biostatistics, Johns Hopkins University<br />
-  Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
-
-- **Research Scientist Intern**, summer 2018<br />
-  Department of Biostatistics and Programming, Sanofi S.A., Cambridge, MA
-
-- **Data Science Intern**, summer 2017<br />
-  Global Specialty Analytics, Liberty Mutual Insurance, Boston, MA
-
-- **Research & Teaching Assistant**, 2014 - 2019<br />
-  Division of Biostatistics, University of Minnesota Twin Cities
-
-
-
+  - **Intern Advising** at Johns Hopkins University<br />
+       - Yuqi Zhang, B.S.<br />
+       Department of Biomedical Engineering, Johns Hopkins University, June 2020 - Present<br />
+       Co-Mentored with Dr. Nilanjan Chatterjee.
