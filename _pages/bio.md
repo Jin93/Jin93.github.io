@@ -21,18 +21,34 @@ author_profile: true
 Professional Experience
 ======
 
-- **Postdoctoral Fellow**, 2019-Present<br />
+- ***Postdoctoral Fellow***, 2019-Present<br />
     Department of Biostatistics, Johns Hopkins University<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 
-- **Research Scientist Intern**, summer 2018<br />
+- ***Research Scientist Intern***, summer 2018<br />
     Department of Biostatistics and Programming, Sanofi S.A., Cambridge, MA
 
-- **Data Science Intern**, summer 2017<br />
+- ***Data Science Intern***, summer 2017<br />
     Global Specialty Analytics, Liberty Mutual Insurance, Boston, MA
 
-- **Research & Teaching Assistant**, 2014 - 2018<br />
+- ***Research & Teaching Assistant***, 2014 - 2018<br />
     Division of Biostatistics, University of Minnesota Twin Cities
+
+
+
+---
+
+Honors & Awards
+======
+
+- James R. Boen Student Achievement Award, University of Minnesota, 2019
+- Student Paper Award, Medical Device and Diagnostic Section, AMA Joint Statistical Meetings, 2017 & 2019.
+- Doctoral Dissertation Fellowship, University of Minnesota, 2018.
+- Ph.D. Student Award, School of Public Health Research Day, University of Minnesota, 2017.
+- COGS Grant Award, University of Minnesota, 2017.
+- Dean's PhD Scholar's Award, University of Minnesota, 2016.
+- John E. Connett First Year Award, University of Minnesota, 2015.
+- Outstanding Student Scholarship, University of Science and Technology of China, 2011 - 2014.
 
 
 
