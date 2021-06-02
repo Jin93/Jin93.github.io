@@ -5,20 +5,19 @@ permalink: /bio/
 author_profile: true
 ---
 
-Ph.D. in Biostatistics, 2019
-- University of Minnesota Twin Cities
+> **Ph.D. in Biostatistics**, 2019, University of Minnesota Twin Cities
 - Advisors: Drs. [Joeseph Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)   
 - Dissertation: Statistical Methods for Improved Voxel-wise Classification of Prostate Cancer Using Multi-parametric MRI Data.
 
-M.S. in Biostatistics, 2016
-- University of Minnesota Twin Cities
+**M.S. in Biostatistics**, 2016, University of Minnesota Twin Cities
 
-B.S. in Statistics, 2014
-- School of the Gifted Young, University of Science and Technology of China
+**B.S. in Statistics**, 2014, School of the Gifted Young, University of Science and Technology of China
 - Advisor: [Laisheng Wei](https://bs.ustc.edu.cn/english/profile-202.html)     
 - Dissertation: The analysis of sub-health status among college students in China.
 
 
+
+======
 Professional Experience
 ======
 
