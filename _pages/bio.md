@@ -20,7 +20,6 @@ author_profile: true
 
 Professional Experience
 ======
-
 - Postdoctoral Fellow, Johns Hopkins University, Baltimore, MD, 2019 - Present<br />
     Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
 - Research Scientist Intern, Sanofi S.A., Cambridge, MA, summer 2018<br />
@@ -33,7 +32,6 @@ Professional Experience
 
 Honors & Awards
 ======
-
 - James R. Boen Student Achievement Award, University of Minnesota, 2019
 - Student Paper Award, Medical Device and Diagnostic Section, AMA Joint Statistical Meetings, 2017 & 2019.
 - Doctoral Dissertation Fellowship, University of Minnesota, 2018.
