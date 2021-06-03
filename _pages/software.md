@@ -22,6 +22,6 @@ author_profile: true
 - [COVID-19 Mortality Risk Calculator](https://covid19risktools.com:8443/riskcalculator)<br />
   The tool provides an assessment of individualized risks for mortality from COVID-19 using the best publicly available information on risks associated with various predisposing factors.<br />
 - [COVID-19 Risk Interactive Maps](https://jhucovid19.policymap.com/newmaps#/)<br />
-  Developed through a collaborative effort with PolicyMap, the interactive maps show sizes of various high risk populations in US, nationwide and by cities, countries, and states.<br />
+  Developed through a collaborative effort with [PolicyMap](https://www.policymap.com/), the interactive maps show sizes of various high risk populations in US, nationwide and by cities, countries, and states.<br />
      - Jin, J., Agarwala, N., Kundu, P., Chatterjee, N., 2020. Individual and community-level risk for COVID-19 mortality in the United States. Nature Medicine, 27(2), 264-269.
 
