@@ -38,7 +38,5 @@ Honors & Awards
 - COGS Grant Award, University of Minnesota, 2017.
 - Dean's PhD Scholar's Award, University of Minnesota, 2016.
 - John E. Connett First Year Award, University of Minnesota, 2015.
-- Outstanding Student Scholarship, University of Science and Technology of China, 2011 - 2014.
-
 
 
