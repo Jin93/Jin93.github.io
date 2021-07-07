@@ -21,9 +21,9 @@ Please see
 2. __Jin, J.__, Qi, G., Yu, Z., Chatterjee, N. (2021) Mendelian Randomization Analysis Using Multiple Biomarkers of an Underlying Common Exposure. 
 [[bioRxiv]](https://doi.org/10.1101/2021.02.05.429979) [[R Package]](https://github.com/Jin93/MRLE)
 
-3.  Rabinowitz, J.A., __Jin, J.__, Kuo, S.,  Thrul, J., Reboussin, B., Domingue, B., Ialongo, N., Maher, B.,Uhl, G. (2021) Genetic Propensity for Risky Behavior and Depression Predicts Suicide Attempt among Urban African American Males.'' To appear in ***American Journal of Medical Genetics***.  
+3.  Rabinowitz, J.A., __Jin, J.__, Kahn, G., Kuo, S.-C., Campos, A., Renteria, M., Benke, K., Wilcox, H., Ialongo, N.S., Maher, B.S., Kertes, D., Eaton, W., Uhl, G., Wagner, B.M., & Cohen, D. (2021) Genetic Propensity for Risky Behavior and Depression and Risk of Lifetime Suicide Attempt among Urban African Americans in Adolescence and Young Adulthood.'' ***American Journal of Medical Genetics***, 1-13. DOI: https://doi.org/10.1002/ajmg.b.32866.
 
-4. Ballreich, J., __Jin, J.__, Kundu, P., Chatterjee, N. (2021) Provider and Patient Characteristics of Medicare Beneficiaries Who Are High-Risk for COVID-19 Mortality. ***Journal of General Internal Medicine***. DOI: 10.1007/s11606-021-06857-8. 
+4. Ballreich, J., __Jin, J.__, Kundu, P., Chatterjee, N. (2021) Provider and Patient Characteristics of Medicare Beneficiaries Who Are High-Risk for COVID-19 Mortality. ***Journal of General Internal Medicine***, 1-2. DOI: 10.1007/s11606-021-06857-8. 
 
 
 
