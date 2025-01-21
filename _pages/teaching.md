@@ -9,6 +9,9 @@ sort: 4
 #### __Instructor__
 (at the University of Pennsylvania)
 
+__BSTA 621: Statistical Inference I__ [(Spring 2025)](https://www.dropbox.com/scl/fi/1vg6vrr3ktu22m6ghtwj3/BSTA-621-Spring-2025-Syllabus.pdf?rlkey=c1me2pkgk2yxpbr1ilybozrbh&st=ucx2ruk4&dl=0)
+- Office Hour: Mon 3:30pm - 4:30pm, 203 Blockley Hall
+
 __BSTA 621: Statistical Inference I__ [(Spring 2024)](https://www.med.upenn.edu/bgs/assets/user-content/documents/spring-2024-courses/bsta-6210-spring-2024.pdf)
 - Office Hour: Tue 11:00am - 12:00pm, 203 Blockley Hall
 
