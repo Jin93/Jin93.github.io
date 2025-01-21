@@ -6,6 +6,11 @@ nav: true
 sort: 6
 ---
 
+#### [CaLMR](https://github.com/yueuuy/CaLMR/){:target="_blank"}
+An R-based command line tool for implementing CaLMR (Causal analysis of Latent exposures using Mendelian Randomization), a powerful method for conducting Mendelian randomization analysis for latent exposures leveraging information from GWAS summary-level information on observed biomarkers.
+[[Preprint]](https://www.medrxiv.org/content/10.1101/2024.11.25.24317939v1)
+
+
 
 #### [MUSSEL](https://github.com/Jin93/MUSSEL){:target="_blank"}
 An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk scores (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
