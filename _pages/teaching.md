@@ -12,7 +12,7 @@ sort: 4
 __BSTA 621: Statistical Inference I__ (Spring 2025)
 - Office Hour: Mon 3:30pm - 4:30pm, 203 Blockley Hall
 
-__BSTA 621: Statistical Inference I__ [(Spring 2024)](https://www.med.upenn.edu/bgs/assets/user-content/documents/spring-2024-courses/bsta-6210-spring-2024.pdf)
+__BSTA 621: Statistical Inference I__ (Spring 2024)
 - Office Hour: Tue 11:00am - 12:00pm, 203 Blockley Hall
 
 &nbsp;  
