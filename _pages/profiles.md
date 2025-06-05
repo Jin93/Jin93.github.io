@@ -37,5 +37,24 @@ profiles:
   image: Andrew.png
   content: AL.md
   image_circular: false # crops the image to make it circular
+- align: left
+  image: Ruofan Wang.jpeg
+  content: RW.md
+  image_circular: false # crops the image to make it circular
+
+---
+
+#### Masters Students
+
+profiles:
+
+- align: left
+  image: Zhijie_Duan.png
+  content: ZD.md
+  image_circular: false # crops the image to make it circular
+- align: left
+  image: JiyaoZhang_Photo.jpeg
+  content: JZ.md
+  image_circular: false # crops the image to make it circular
 
 ---
