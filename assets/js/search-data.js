@@ -412,18 +412,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-pennprs-version-1-0-0-is-now-available-online",
-          title: 'PennPRS version 1.0.0 is now available online.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_PennPRS/";
             },},{id: "news-our-paper-on-mrle-mendelian-randomization-analysis-using-multiple-biomarkers-of-an-underlying-common-exposure-was-published-in-biostatistics",
           title: 'Our paper on MRLE: Mendelian randomization analysis using multiple biomarkers of an underlying...',
           description: "",
           section: "News",},{id: "news-our-paper-on-mussel-a-method-for-developing-enhanced-ancestry-specific-polygenic-risk-score-is-now-available-on-cell-genomics",
           title: 'Our paper on MUSSEL, a method for developing enhanced ancestry-specific polygenic risk score,...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-pennprs-version-1-0-0-is-now-available-online",
+          title: 'PennPRS version 1.0.0 is now available online.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_PennPRS/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
