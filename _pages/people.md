@@ -7,6 +7,7 @@ nav_order: 3
 ---
 
 ---
+
 ## Principal Investigator
 
 <div class="row justify-content-sm-center">
@@ -21,11 +22,12 @@ nav_order: 3
 </div>  
 &nbsp;
 
-  
 ---
 
 ## Current Members
+
 &nbsp;
+
 #### Doctoral Students
 
 <div class="row justify-content-sm-center">
@@ -42,8 +44,6 @@ nav_order: 3
 </div>  
 &nbsp;
 
-
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"  path="assets/img/Andrew.png" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
@@ -57,7 +57,6 @@ nav_order: 3
 </div>  
 &nbsp;
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"  path="assets/img/ivvone-zhou.jpg" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
@@ -70,7 +69,6 @@ nav_order: 3
     </div>
 </div>  
 &nbsp;
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -100,7 +98,6 @@ nav_order: 3
 </div>  
 &nbsp;
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"  path="assets/img/Yue Yu.png" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
@@ -112,7 +109,6 @@ nav_order: 3
     </div>
 </div>  
 &nbsp;
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -126,8 +122,6 @@ nav_order: 3
 </div>  
 &nbsp;
 
-
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"  path="assets/img/yao_you.jpg" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
@@ -139,7 +133,6 @@ nav_order: 3
     </div>
 </div>  
 &nbsp;
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -157,6 +150,7 @@ nav_order: 3
 ## Past Members
 
 &nbsp;
+
 #### Masters Students
 
 <div class="row justify-content-sm-center">
