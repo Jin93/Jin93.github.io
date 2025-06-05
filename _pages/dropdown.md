@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: People
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Group Photo
+    permalink: /groupphoto/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: People
+    permalink: /people/
 ---

@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### __Instructor__
+(at the University of Pennsylvania)
 
-Organize your courses by years, topics, or universities, however you like!
+__BSTA 621: Statistical Inference I__ (Spring 2025)
+- Office Hour: Mon 3:30pm - 4:30pm, 203 Blockley Hall
+
+__BSTA 621: Statistical Inference I__ (Spring 2024)
+- Office Hour: Tue 11:00am - 12:00pm, 203 Blockley Hall
+
+
+
