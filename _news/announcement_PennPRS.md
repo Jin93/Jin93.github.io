@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PennPRS version 1.0.0 is now available online.
-date: 2015-01-25
+date: 2025-01-25
 inline: false
 related_posts: false
 ---
