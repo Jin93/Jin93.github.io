@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /
 title: People
 nav: false
 nav_order: 3
