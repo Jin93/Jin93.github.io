@@ -19,16 +19,6 @@ profiles:
   content: about_einstein.md
   image_circular: false # crops the image to make it circular
 
----
-
-## Current Members
-
-&nbsp;
-
-#### Doctoral Students
-
-profiles:
-
 - align: left
   image: DongHeon.jpg
   content: DH.md
@@ -42,11 +32,6 @@ profiles:
   content: RW.md
   image_circular: false # crops the image to make it circular
 
----
-
-#### Masters Students
-
-profiles:
 - align: left
   image: Zhijie_Duan.png
   content: ZD.md
@@ -56,10 +41,6 @@ profiles:
   content: JZ.md
   image_circular: false # crops the image to make it circular
 
----
-
-## Past Members
-profiles:
 - align: left
   image: Zhijie_Duan.png
   content: ZD.md
