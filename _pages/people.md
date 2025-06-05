@@ -11,7 +11,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Jin_08_23.jpeg" title="Jin" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/Jin_08_23.jpeg" title="Jin" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Jin Jin <br />
@@ -30,7 +30,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DongHeon.jpg" title="DH" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/DongHeon.jpg" title="DH" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Dong Heon Lee <br />
@@ -46,7 +46,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Andrew.png" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/Andrew.png" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Andrew Lakkis <br />
@@ -60,7 +60,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ivvone-zhou.jpg" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/ivvone-zhou.jpg" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Ivvone Zhou <br />
@@ -74,7 +74,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Luke-Stewart.jpg" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/Luke-Stewart.jpg" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Luke Stewart<br />
@@ -90,7 +90,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Ruofan Wang.jpeg" title="RW" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/Ruofan Wang.jpeg" title="RW" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Ruofan Wang <br />
@@ -103,7 +103,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Yue Yu.png" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/Yue Yu.png" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Yue Yu <br />
@@ -116,7 +116,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Zhijie_Duan.png" title="" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/Zhijie_Duan.png" title="" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Zhijie Duan<br />
@@ -130,7 +130,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/yao_you.jpg" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/yao_you.jpg" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Yao You<br />
@@ -143,7 +143,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/JiyaoZhang_Photo.jpeg" title="Jiyao" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/JiyaoZhang_Photo.jpeg" title="Jiyao" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Jiyao Zhang<br />
@@ -161,7 +161,7 @@ nav_order: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Yihao Wang.jpg" title="YW" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.liquid loading="eager"  path="assets/img/Yihao Wang.jpg" title="YW" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Yihao Wang <br />
