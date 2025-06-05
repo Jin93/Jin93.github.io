@@ -11,12 +11,14 @@ nav_order: 4
 \*\*[PennPRS](https://pennprs.org/admin)
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/policymap.png" title="State-level projections of COVID-19 Mortality Risk" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PennPRS.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">Developed through a collaborative effort with Eliza Wallace from <a href="https://www.policymap.com/">PolicyMap</a>, the interactive maps show sizes of high-risk populations in the U.S., nationwide and by cities, countries, and states.
 </div>
+<div class="caption">
+    A centralized cloud computing platform for efﬁcient polygenic risk score (PRS) model training in precision medicine.
 </div>
+
 [[Preprint]](https://www.medrxiv.org/content/10.1101/2025.02.07.25321875v1)
 [[Website]](https://pennprs.org/)
 [[Offline Pipeline for Large-Scale Analyses]](https://github.com/PennPRS/Pipeline)
