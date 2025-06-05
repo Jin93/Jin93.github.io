@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: People
-nav: false
+nav: true
 nav_order: 3
 ---
 
