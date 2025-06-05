@@ -20,12 +20,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 I am an Assistant Professor of Biostatistics at the University of Pennsylvania, Department of Biostatistics, Epidemiology and Informatics. I worked as a postdoctoral fellow in Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)'s group at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), Johns Hopkins Bloomberg School of Public Health in 2019 - 2023. I received my Ph.D. in Biostatistics from the University of Minnesota, Twin Cities under the supervision of Drs. [Joeseph S. Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang). Before that I received my Bachelor's degree in statistics from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)).
@@ -45,4 +45,3 @@ Email: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.u
 
 &nbsp;
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
