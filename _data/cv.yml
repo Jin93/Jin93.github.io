@@ -1,5 +1,5 @@
-- title: General Information
-  type: map
+- title: Education
+  type: time_table
   contents:
     - title: Ph.D. in Biostatistics
       institution: University of Minnesota Twin Cities

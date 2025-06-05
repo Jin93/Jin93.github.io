@@ -47,7 +47,6 @@ profiles:
 #### Masters Students
 
 profiles:
-
 - align: left
   image: Zhijie_Duan.png
   content: ZD.md
@@ -58,3 +57,14 @@ profiles:
   image_circular: false # crops the image to make it circular
 
 ---
+
+## Past Members
+profiles:
+- align: left
+  image: Zhijie_Duan.png
+  content: ZD.md
+  image_circular: false # crops the image to make it circular
+- align: left
+  image: JiyaoZhang_Photo.jpeg
+  content: JZ.md
+  image_circular: false # crops the image to make it circular
