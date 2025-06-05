@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /peoplearchive/
 title: People
 nav: false
 nav_order: 3
