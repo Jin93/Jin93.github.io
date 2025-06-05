@@ -6,9 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-### **Computing**
-
-\*\*[PennPRS](https://pennprs.org/admin)
+#### [PennPRS](https://pennprs.org/admin)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,11 +17,11 @@ nav_order: 4
     A centralized cloud computing platform for efﬁcient polygenic risk score (PRS) model training in precision medicine.
 </div>
 
-[[Preprint]](https://www.medrxiv.org/content/10.1101/2025.02.07.25321875v1)
-[[Website]](https://pennprs.org/)
-[[Offline Pipeline for Large-Scale Analyses]](https://github.com/PennPRS/Pipeline)
+[[Preprint]](https://www.medrxiv.org/content/10.1101/2025.02.07.25321875v1)<br />
+[[Website]](https://pennprs.org/)<br />
+[[Offline Pipeline for Large-Scale Analyses]](https://github.com/PennPRS/Pipeline)<br />
 
-### **Software**
+## **Software**
 
 #### [CaLMR](https://github.com/yueuuy/CaLMR/){:target="\_blank"}
 
@@ -37,7 +35,8 @@ An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Sla
 
 #### [MRLE](https://github.com/Jin93/MRLE){:target="\_blank"}
 
-An R package for conducting Mendelian randomization analysis for a latent exposure leveraging information from multiple biomarkers. [[Paper](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae006/7624600?redirectedFrom=fulltext&login=false)] [[Preprint](https://www.biorxiv.org/content/10.1101/2021.02.05.429979v3.abstract)]
+An R package for conducting Mendelian randomization analysis for a latent exposure leveraging information from multiple biomarkers. [[Paper](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae006/7624600?redirectedFrom=fulltext&login=false)]
+[[Paper](https://academic.oup.com/biostatistics/article/25/4/1015/7624600)]
 
 #### [T2DAG](https://github.com/Jin93/T2DAG){:target="\_blank"}
 
