@@ -9,4 +9,4 @@ display_categories: [work]
 horizontal: false
 ---
 
-\*\*[PennEBH](https://www.cceb.med.upenn.edu/pennebh): Penn Center for Eye Brain Health
+[PennEBH](https://www.cceb.med.upenn.edu/pennebh): Penn Center for Eye Brain Health
