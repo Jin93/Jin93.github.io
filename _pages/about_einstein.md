@@ -1,4 +1,4 @@
-Principal Investigator <br /><br />
+**Principal Investigator** <br /><br />
 
 Jin Jin <br />
 Assistant Professor of Biostatistics <br />
