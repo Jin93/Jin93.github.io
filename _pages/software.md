@@ -1,10 +1,14 @@
 ---
 layout: page
 permalink: /software/
-title: Software
+title: Computing
 nav: true
-nav_order: 6
+nav_order: 4
 ---
+
+### **Computing**
+
+### **Software**
 
 #### [CaLMR](https://github.com/yueuuy/CaLMR/){:target="\_blank"}
 
@@ -16,13 +20,9 @@ An R-based command line tool for implementing CaLMR (Causal analysis of Latent e
 An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk scores (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
 [[Paper]](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8)
 
----
-
 #### [MRLE](https://github.com/Jin93/MRLE){:target="\_blank"}
 
 An R package for conducting Mendelian randomization analysis for a latent exposure leveraging information from multiple biomarkers. [[Paper](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae006/7624600?redirectedFrom=fulltext&login=false)] [[Preprint](https://www.biorxiv.org/content/10.1101/2021.02.05.429979v3.abstract)]
-
----
 
 #### [T2DAG](https://github.com/Jin93/T2DAG){:target="\_blank"}
 
@@ -31,7 +31,7 @@ An R package for graph-informed detection of disease-associated gene pathways. [
 
 ---
 
-#### **COVID-19 Risk Tools**
+### **COVID-19 Risk Tools**
 
 #### [Mortality Risk Calculator](https://covid19risktools.com:8443/riskcalculator){:target="\_blank"}
 
