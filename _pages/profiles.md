@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-nav: true
+nav: false
 nav_order: 7
 editor_options:
   markdown:
