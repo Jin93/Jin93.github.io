@@ -418,12 +418,10 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-mussel-a-method-for-developing-enhanced-ancestry-specific-polygenic-risk-score-is-now-available-on-cell-genomics",
           title: 'Our paper on MUSSEL, a method for developing enhanced ancestry-specific polygenic risk score,...',
           description: "",
-          section: "News",},{id: "news-announcement-pennprs",
-          title: 'Announcement_pennprs',
+          section: "News",},{id: "news-pennprs-version-1-0-0-is-now-available-online-preprint",
+          title: 'PennPRS version 1.0.0 is now available online. Preprint',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_PennPRS/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -476,11 +474,11 @@ ninja.data = [{
           window.open("mailto:%6A%69%6E.%6A%69%6E@%70%65%6E%6E%6D%65%64%69%63%69%6E%65.%75%70%65%6E%6E.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/Jin93", "_blank");
         },
       },{
         id: 'social-scholar',
