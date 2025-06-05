@@ -433,16 +433,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-on-mrle-mendelian-randomization-analysis-using-multiple-biomarkers-of-an-underlying-common-exposure-was-published-in-biostatistics",
+          title: 'Our paper on MRLE: Mendelian randomization analysis using multiple biomarkers of an underlying...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-mussel-a-method-for-developing-enhanced-ancestry-specific-polygenic-risk-score-is-now-available-on-cell-genomics",
+          title: 'Our paper on MUSSEL, a method for developing enhanced ancestry-specific polygenic risk score,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
