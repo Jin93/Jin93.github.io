@@ -42,7 +42,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/profiles/";
+            window.location.href = "/people/";
           },
         },{id: "dropdown-group-photo",
               title: "Group Photo",
