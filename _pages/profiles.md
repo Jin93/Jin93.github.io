@@ -4,48 +4,38 @@ permalink: /people/
 title: People
 nav: true
 nav_order: 7
+editor_options:
+  markdown:
+    wrap: 72
 ---
 
 ## Principal Investigator
 
-profiles:
+profiles: - align: right image: Jin_08_23.jpeg content:
+about_einstein.md image_circular: false \# crops the image to make it
+circular more_info: \>
 
-# if you want to include more than one profile, just replicate the following block
+- align: left image: DongHeon.jpg content: DH.md image_circular: false
+  \# crops the image to make it circular more_info: \>
 
-# and create one content file for each profile inside \_pages/
+- align: left image: Andrew.png content: AL.md image_circular: false
+  \# crops the image to make it circular more_info: \>
 
-- align: right
-  image: Jin_08_23.jpeg
-  content: about_einstein.md
-  image_circular: false # crops the image to make it circular
+- align: left image: Ruofan Wang.jpeg content: RW.md image_circular:
+  false \# crops the image to make it circular more_info: \>
 
-- align: left
-  image: DongHeon.jpg
-  content: DH.md
-  image_circular: false # crops the image to make it circular
-- align: left
-  image: Andrew.png
-  content: AL.md
-  image_circular: false # crops the image to make it circular
-- align: left
-  image: Ruofan Wang.jpeg
-  content: RW.md
-  image_circular: false # crops the image to make it circular
+- align: left image: Zhijie_Duan.png content: ZD.md image_circular:
+  false \# crops the image to make it circular more_info: \>
 
-- align: left
-  image: Zhijie_Duan.png
-  content: ZD.md
-  image_circular: false # crops the image to make it circular
-- align: left
-  image: JiyaoZhang_Photo.jpeg
-  content: JZ.md
-  image_circular: false # crops the image to make it circular
+- align: left image: JiyaoZhang_Photo.jpeg content: JZ.md
+  image_circular: false \# crops the image to make it circular
+  more_info: \>
 
-- align: left
-  image: Zhijie_Duan.png
-  content: ZD.md
-  image_circular: false # crops the image to make it circular
-- align: left
-  image: JiyaoZhang_Photo.jpeg
-  content: JZ.md
-  image_circular: false # crops the image to make it circular
+- align: left image: Zhijie_Duan.png content: ZD.md image_circular:
+  false \# crops the image to make it circular more_info: \>
+
+- align: left image: JiyaoZhang_Photo.jpeg content: JZ.md
+  image_circular: false \# crops the image to make it circular
+  more_info: \>
+
+---
