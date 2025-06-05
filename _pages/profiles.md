@@ -6,7 +6,7 @@ nav: false
 nav_order: 7
 
 profiles:
-  - align: right
+  - align: left
     image: Jin_08_23.jpeg
     content: about_einstein.md
     image_circular: false
