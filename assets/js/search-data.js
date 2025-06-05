@@ -418,8 +418,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-mussel-a-method-for-developing-enhanced-ancestry-specific-polygenic-risk-score-is-now-available-on-cell-genomics",
           title: 'Our paper on MUSSEL, a method for developing enhanced ancestry-specific polygenic risk score,...',
           description: "",
-          section: "News",},{id: "news-pennprs-version-1-0-0-is-now-available-online",
-          title: 'PennPRS version 1.0.0 is now available online.',
+          section: "News",},{id: "news-announcement-pennprs",
+          title: 'Announcement_pennprs',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_PennPRS/";
