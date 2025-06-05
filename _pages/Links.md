@@ -3,7 +3,7 @@ layout: page
 title: Links
 permalink: /links/
 description:
-nav: true
+nav: false
 nav_order: 5
 display_categories: [work]
 horizontal: false
