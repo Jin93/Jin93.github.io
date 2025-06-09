@@ -3,7 +3,7 @@ layout: page
 permalink: /software/
 title: Computing
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 #### [PennPRS](https://pennprs.org/admin)
