@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-#### [PennPRS](https://pennprs.org/admin)
+#### [PennPRS](https://pennprs.org/)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
