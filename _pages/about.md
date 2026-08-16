@@ -39,8 +39,8 @@ In September 2025, I received an [NIH Maximizing Investigators’ Research Award
 
 Department of Biostatistics, Epidemiology and Bioinformatics <br />
 University of Pennsylvania, Perelman School of Medicine <br />
-203 Blockley Hall <br />
-423 Guardian Drive, Philadelphia, PA 19104 <br />
+3600 Civic Center Blvd, 3E-307 <br />
+Philadelphia, PA 19104 <br />
 Email: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.upenn.edu</a>
 
 &nbsp;

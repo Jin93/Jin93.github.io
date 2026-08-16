@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /software/
-title: Software
+title: Computing
 nav: true
 nav_order: 5
 ---
@@ -22,6 +22,16 @@ nav_order: 5
 [[Offline Pipeline for Large-Scale Analyses]](https://github.com/PennPRS/Pipeline)<br />
 
 ## **Software**
+
+#### [Literature-derived PRS Benchmarking Database](https://github.com/codeitchris/PRS-Ranking-Paper-Code-and-Data){:target="\_blank"}
+
+A literature-derived benchmarking database that contains curated benchmarking data collected from peer-reviewed publications for polygenic risk score (PRS) method benchmarking and code for generating PRS method ranks with uncertainty quantification.
+[[Preprint]](https://www.biorxiv.org/content/10.1101/2024.11.30.626101v1.abstract)
+
+#### [LFVCR](https://github.com/ruofan-wang/LFVCR){:target="\_blank"}
+
+An R package for running LF-VCR (latent-feature-explained varying-coefficient regression), which allows effects of a subset of the observed predictors to vary by a set of lower-dimensional latent features extracted from the predictors.
+[[Preprint]](https://www.biorxiv.org/content/10.1101/2024.11.30.626101v1.abstract)
 
 #### [CaLMR](https://github.com/yueuuy/CaLMR/){:target="\_blank"}
 

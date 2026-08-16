@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: Statistical and computational methods for integrating large-scale, multi-source data in public health and medicine.
-nav: false
+nav: false # hidden from the top menu for now; set back to true to show the Research page. Source file is kept.
 nav_order: 2
 ---
 
