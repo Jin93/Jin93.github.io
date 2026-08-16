@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Research directions in my group. Each card links to a detailed project page.
-nav: true
+nav: false # hidden from the top menu for now; set back to true to show the Projects page. Source files in _projects/ are kept.
 nav_order: 3
 horizontal: false
 ---
