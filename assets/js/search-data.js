@@ -9,7 +9,28 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Research directions in my group. Each card links to a detailed project page.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-software",
+          title: "Software",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/software/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
@@ -23,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-computing",
-          title: "Computing",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/software/";
-          },
         },{id: "nav-positions",
           title: "Positions",
           description: "",
@@ -37,21 +51,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/positions/";
           },
-        },{id: "dropdown-group-photo",
-              title: "Group Photo",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/groupphoto/";
-              },
-            },{id: "dropdown-people",
-              title: "People",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/people/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-people",
+          title: "People",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -425,54 +432,41 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-mussel-a-method-for-developing-enhanced-ancestry-specific-polygenic-risk-score-is-now-available-on-cell-genomics",
           title: 'Our paper on MUSSEL, a method for developing enhanced ancestry-specific polygenic risk score,...',
           description: "",
+          section: "News",},{id: "news-dr-jin-was-awarded-a-three-year-innovation-award-to-establish-the-penn-center-for-eye-brain-health-pennebh-from-the-center-for-clinical-epidemiology-and-biostatistics-cceb-at-penn-medicine",
+          title: 'Dr. Jin was awarded a three-year Innovation Award to establish the Penn Center...',
+          description: "",
           section: "News",},{id: "news-pennprs-version-1-0-0-is-now-available-online-preprint",
           title: 'PennPRS version 1.0.0 is now available online. Preprint',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-our-paper-on-constructing-genetic-risk-scores-robust-bayesian-approach-through-projected-summary-statistics-and-flexible-shrinkage-was-published-in-the-journal-of-the-american-statistical-association",
+          title: 'Our paper on Constructing Genetic Risk Scores: Robust Bayesian Approach through Projected Summary...',
+          description: "",
+          section: "News",},{id: "news-dr-jin-received-a-maximizing-investigators-research-award-mira-from-the-national-institute-of-general-medicine-sciences-nigms-on-statistical-methods-and-tools-for-enhancing-polygenic-risk-prediction-and-discovery-of-causal-gene-pathways",
+          title: 'Dr. Jin received a Maximizing Investigators’ Research Award (MIRA) from the National Institute...',
+          description: "",
+          section: "News",},{id: "news-our-preprint-on-constructing-a-literature-derived-database-for-benchmarking-polygenic-risk-score-construction-methods-with-ranking-inferences-is-now-available-on-medrxiv",
+          title: 'Our preprint on Constructing a Literature-Derived Database for Benchmarking Polygenic Risk Score Construction...',
+          description: "",
+          section: "News",},{id: "projects-health-equity-in-polygenic-risk-prediction",
+          title: 'Health Equity in Polygenic Risk Prediction',
+          description: "Bayesian and ensemble methods for accurate, equitable disease risk prediction across ancestry groups.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/prs-health-equity/";
+            },},{id: "projects-causal-inference-amp-mendelian-randomization",
+          title: 'Causal Inference &amp;amp; Mendelian Randomization',
+          description: "Recovering effects of latent exposures by integrating GWAS summary data across multiple biomarkers.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/mendelian-randomization/";
+            },},{id: "projects-high-dimensional-amp-graph-informed-inference",
+          title: 'High-Dimensional &amp;amp; Graph-Informed Inference',
+          description: "Methods for complex-structured data that incorporate biological network structure.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/high-dimensional-inference/";
+            },},{id: "projects-risk-prediction-for-population-amp-public-health",
+          title: 'Risk Prediction for Population &amp;amp; Public Health',
+          description: "Translating large-scale data into individual- and community-level risk assessments.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/population-health-risk/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -486,6 +480,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/Jin93", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-7611-8185", "_blank");
         },
       },{
         id: 'social-scholar',
