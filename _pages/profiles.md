@@ -2,8 +2,8 @@
 layout: profiles
 permalink: /people/
 title: People
-nav: false
-nav_order: 7
+nav: true
+nav_order: 9
 
 profiles:
   - align: left
@@ -12,6 +12,7 @@ profiles:
     image_circular: false
 
   - align: left
+    section_title: Current Members
     image: lee-DH-picture-400x400.jpeg
     content: DH.md
     image_circular: false
@@ -27,17 +28,26 @@ profiles:
     image_circular: false
 
   - align: left
-    image: Zhijie_Duan.png
-    content: ZD.md
-    image_circular: false
-
-  - align: left
     image: JiyaoZhang_Photo.jpeg
     content: JZ.md
     image_circular: false
 
-  ## Past Members
-
+  - align: left
+    section_title: Past Members
+    image: Zhijie_Duan.png
+    content: ZD.md
+    image_circular: false
+    
+  - align: left
+    image: Zhaoqian Xue.jpg
+    content: ZX.md
+    image_circular: false
+    
+  - align: left
+    image: Chris Sebastian.png
+    content: CS.md
+    image_circular: false
+    
   - align: left
     image: Yue Yu.png
     content: YY.md

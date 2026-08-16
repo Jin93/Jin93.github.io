@@ -2,10 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
-nav: false
-nav_order: 4
-display_categories: [work, fun]
+description: Research directions in my group. Each card links to a detailed project page.
+nav: true
+nav_order: 3
 horizontal: false
 ---
 

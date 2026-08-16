@@ -5,6 +5,8 @@ description: another project with an image 🎉
 img: assets/img/6.jpg
 importance: 4
 category: fun
+published: false # demo project hidden; delete this file when convenient
+
 ---
 
 Every project has a beautiful feature showcase page.

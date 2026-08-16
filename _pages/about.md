@@ -7,12 +7,11 @@ profile:
   align: right
   image: Jin_08_23.jpeg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #  <p>Department of Biostatistics, Epidemiology and Bioinformatics
-  #      University of Pennsylvania, Perelman School of Medicine
-  #      203 Blockley Hall
-  #      423 Guardian Drive</p>
-  #  <p>Philadelphia, PA 19104</p>
+  more_info: >
+    <p>Department of Biostatistics, Epidemiology and Bioinformatics<br />
+    University of Pennsylvania, Perelman School of Medicine<br />
+    203 Blockley Hall, 423 Guardian Drive<br />
+    Philadelphia, PA 19104</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,8 +31,9 @@ I am an Assistant Professor of Biostatistics at the University of Pennsylvania, 
 
 My research interests focus on developing statistical and computational methods to address cutting-edge problems in public health and medicine by integrating large-scale, multi-source datasets. Within this scope, my research involves health equity in disease risk prediction, statistical genetics, Bayesian hierarchical models for high-dimensional, complex-structured data, and statistical data integration.
 
-In February 2022, I received an [NIH Pathway to Independence Award (K99/R00)](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10349828) from the National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)) as a Principal Investigator for multi-ethnic disease risk prediction integrating multi-source information on genetic and other risk factors. <br />
+In September 2025, I received an [NIH Maximizing Investigators’ Research Award (MIRA)](https://reporter.nih.gov/search/E7jclQLX1k-wwbkGv5dG0w/project-details/11020636) from the National Institute of General Medicine Sciences (NIGMS) on Statistical methods and tools for enhancing polygenic risk prediction and discovery of causal gene pathways. <br />
 &nbsp;
+
 
 #### **Contact**
 

@@ -6,6 +6,8 @@ img: assets/img/4.jpg
 importance: 1
 category: work
 related_publications: true
+published: false # demo project hidden; delete this file when convenient
+
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /software/
-title: Computing
+title: Software
 nav: true
 nav_order: 5
 ---

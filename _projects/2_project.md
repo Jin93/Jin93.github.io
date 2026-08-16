@@ -1,81 +1,36 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Causal Inference & Mendelian Randomization
+description: Recovering effects of latent exposures by integrating GWAS summary data across multiple biomarkers.
+permalink: /projects/mendelian-randomization/
 importance: 2
-category: work
-giscus_comments: true
+category: research
+github: https://github.com/Jin93/MRLE
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Mendelian randomization (MR) uses genetic variants as instrumental variables to estimate the
+causal effect of an exposure on an outcome. Many exposures of interest, however, are **latent**
+or difficult to measure directly. My work develops MR methods that recover the effect of an
+underlying common exposure by integrating GWAS summary statistics across multiple observed
+biomarkers, improving statistical power and robustness over single-biomarker approaches.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+#### Methods
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**MRLE** (Mendelian Randomization analysis for a Latent Exposure) leverages GWAS summary-level
+information on multiple biomarkers that share an underlying common exposure, enabling causal
+analysis when the exposure itself is unmeasured.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+**CaLMR** (Causal analysis of Latent exposures using Mendelian Randomization) extends this to a
+Bayesian framework for latent exposures, using GWAS summary statistics for traits co-regulated
+by the exposures.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+#### Software & resources
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- MRLE — <https://github.com/Jin93/MRLE>
+- CaLMR — <https://github.com/yueuuy/CaLMR>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+#### Key publications
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+- *Mendelian randomization analysis using multiple biomarkers of an underlying common exposure.* Biostatistics, 2024. [[Paper]](https://academic.oup.com/biostatistics/article/25/4/1015/7624600)
+- *Bayesian Mendelian Randomization Analysis for Latent Exposures Leveraging GWAS Summary Statistics for Traits Co-Regulated by the Exposures.* medRxiv, 2024. [[Preprint]](https://www.medrxiv.org/content/10.1101/2024.11.25.24317939v1)

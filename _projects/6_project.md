@@ -5,6 +5,8 @@ description: a project with no image
 img:
 importance: 4
 category: fun
+published: false # demo project hidden; delete this file when convenient
+
 ---
 
 Every project has a beautiful feature showcase page.
