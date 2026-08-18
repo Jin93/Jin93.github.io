@@ -28,7 +28,7 @@ profiles:
     image_circular: false
 
   - align: left
-    image: JiyaoZhang_Photo.jpeg
+    image: JiyaoZhang_Photo.png
     content: JZ.md
     image_circular: false
 
